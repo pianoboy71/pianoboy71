@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @pianoboy71
-- 👀 I’m interested in coding, pool, music, maths, chemistry and so much more!
-- 🌱 I’m currently learning chemistry, computer science, maths and further maths
-- 💞️ I’m looking to collaborate on random computer science and programming projects to boost my programming knowledge
-- 📫 How to reach me: Email me on my primary email (concise_sparsity287626@outlook.com) or checkout the rest of my GitHub profile (https://github.com/pianoboy71)
+- 👀 I’m interested in coding, pool, music, Maths, Chemistry and so much more!
+- 🌱 I’m currently learning Chemistry, Computer Science, Maths and Further Maths
+- 💞️ I’m looking to collaborate on random Computer Science/programming projects to boost my programming knowledge!
+- 📫 How to reach me: Email me [here](concise_sparsity287626@outlook.com) or checkout the rest of my [GitHub profile](https://github.com/pianoboy71)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am an association football referee
+- ⚡ Fun fact: I am an association football referee in the UK!
 
 <!--
 **pianoboy71/pianoboy71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
